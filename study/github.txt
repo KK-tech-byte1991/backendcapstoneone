@@ -1,0 +1,9 @@
+let a ="Yada yada hi dharmasya glanirbhavati bharata Abhythanamadharmasya tadatmanam srijamyaham Paritranaya sadhunang vinashay cha dushkritam Dharmasangsthapanarthay sambhabami yuge yuge"
+
+
+let b = a.split(" ").map((x)=>x.split("")[0]).join("")
+
+
+
+
+console.log(b+"78")

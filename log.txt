@@ -39,3 +39,12 @@ POST  /api/job/create 24/5/2024
 POST  /api/job/create 24/5/2024
 POST  /api/job/create 25/5/2024
 POST  /api/job/create 25/5/2024
+POST  /api/job/create 27/5/2024
+GET  /api/job/all 27/5/2024
+GET  /api/job/all 27/5/2024
+GET  /api/job/all 27/5/2024
+GET  /api/job/all 27/5/2024
+GET  /api/job/all 27/5/2024
+GET  /api/job/view/66538f9ce4c3b73370010fee 27/5/2024
+POST  /api/auth/login 27/5/2024
+PATCH  /api/job/update/66538f9ce4c3b73370010fee 27/5/2024

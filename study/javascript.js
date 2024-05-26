@@ -11,7 +11,7 @@
 //     for (const i in this){
 //         newArray.push(callBack(this[i]))
 //     }
-    
+
 //     return newArray
 // }
 
@@ -31,17 +31,17 @@
 // console.log("end")
 
 
-var x=1;
+var x = 1;
 
-function Outer(){
-    console.log("Outer",x)
-    
-    function Inner(){
-        console.log("Inner",x)
+function Outer() {
+    console.log("Outer", x)
+
+    function Inner() {
+        console.log("Inner", x)
     }
-   Inner()
-    var x=2
-     
+    Inner()
+    var x = 2
+
 }
 
 Outer()
