@@ -56,3 +56,4 @@ Outer()
 //what are prototype inheriatance?
 
 //what are call bind apply
+
